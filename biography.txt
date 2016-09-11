@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. Emily Leiby
+2. I became interested in Data Science through my undergraduate studies. I took an introductory class, and I really liked it. I'm currently working as a Data Engineer at an IT asset management firm. 
+3. I took two java programming classes for undergraduate degree. I also used R and python in two of my data science clasess. I don't currently use programming on the job, but I hopefully will in the future.  
+4.  I took an introductory stats course for my undergraduate degree, as well, but I definitely need a refresher because its been awhile. I do not currently use stats on the job. 
+5.  I have a little experience with python from my undergraduate, and I used R in DS700, which I took this past summer semester.
+6.  I hope to have a better understanding of both python and R to use in future data science projects. I am working on building new capabilities for my team at work, so I think this could help a lot. 
+7.  I'm currently living in Chicago. I love food, and I'm a Six Flags session pass holder. I hope to use either my interest in soccer or food as my topic for the final project.
